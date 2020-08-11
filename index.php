@@ -21,7 +21,7 @@
                                    
             <a href="./views/principal.html">click aqui si desea crear un usuario</a> 
             <br>
-            <a href="http://localhost:3000/">click aqui si desea subir imagenes</a>
+            <a href="./views/subir%20imagenes.html">click aqui si desea subir imagenes</a>
                 </div>
                 <div class="col-md-4">
                 
